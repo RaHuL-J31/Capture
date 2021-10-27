@@ -1,3 +1,19 @@
+# Capture
+A React Project created while learning https://developedbyed.com/ React JS course.
+While doing this project I have learnt below react topics with its uses.
+
+Application live link :https://agitated-pike-293e54.netlify.app/
+
+Along with the topics lernt before while doing Waves app [https://github.com/RaHuL-J31/Waves#readme] below topics were lernt while doing this project
+* useLocation
+* useHistory
+* StyledComponents
+* React DOM
+* Route ,Switch
+
+![alt text](https://github.com/RaHuL-J31/Capture/blob/master/src/img/CaptureFull.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
